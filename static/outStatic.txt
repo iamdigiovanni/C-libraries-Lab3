@@ -1,0 +1,50 @@
+Enter the radius of the spehere: 
+The volume of the sphere is : 22770.238281
+
+The surface area of the sphere is : 3885.042969
+
+Enter the radius of the cylinder: 
+Enter the height of the cylinder: 
+The volume of the cylinder is : 2077.238525
+
+Enter the number of floating point values to add up : 
+Enter value 1 : 
+Enter value 2 : 
+Enter value 3 : 
+Enter value 4 : 
+Enter value 5 : 
+Enter value 6 : 
+Enter value 7 : 
+Enter value 8 : 
+The values you entered unsorted : 
+0.347679
+100400.796875
+0.000010
+1.343567
+78.345673
+1678.567017
+997999.625000
+0.000001
+
+The values you entered sorted : 
+0.000001
+0.000010
+0.347679
+1.343567
+78.345673
+1678.567017
+100400.796875
+997999.625000
+The sum of the 8 floating point values is: 1100159.000000 
+How many angles do you want to calculate the sine of : 
+Enter the angle in degrees to calculate the sine : 
+The sine of the angle is : 0.707107 radians
+
+
+Enter the angle in degrees to calculate the sine : 
+The sine of the angle is : 0.587785 radians
+
+
+Enter the angle in degrees to calculate the sine : 
+The sine of the angle is : 0.006021 radians
+
