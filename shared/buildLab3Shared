@@ -1,0 +1,4 @@
+gcc -fPIC -c lab3Calculations.c 
+gcc -shared -o libLab3Calculations.so lab3Calculations.o
+gcc -o testShared lab3.c -L. -lLab3Calculations -lm
+export LD_LIBRARY_PATH=./
