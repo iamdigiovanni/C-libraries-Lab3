@@ -1,0 +1,4 @@
+
+gcc -c -Wall lab3Calculations.c
+ar -cru libLab3Calculations.a lab3Calculations.o
+gcc -o testStatic lab3.c -L. -lLab3Calculations -lm
